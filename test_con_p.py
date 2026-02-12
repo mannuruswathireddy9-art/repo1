@@ -26,7 +26,7 @@ class cal(add, sub):
 
 def test_add():
     c = cal()
-    if c.add(1, 8) != 4:
+    if c.add(1, 5) != 4:
         pytest.fail("Addition failed")
 
 
