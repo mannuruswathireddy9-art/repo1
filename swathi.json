@@ -1,0 +1,34 @@
+{
+    "users": [
+        {
+            "name": "Arjun Kumar",
+            "age": 28,
+            "email": "arjun.kumar@example.com",
+            "phone": "+91-9876543210"
+        },
+        {
+            "name": "Meena Sharma",
+            "age": 34,
+            "email": "meena.sharma@example.com",
+            "phone": "+91-9123456780"
+        },
+        {
+            "name": "Rohit Verma",
+            "age": 250,
+            "email": "rohit.verma@example.com",
+            "phone": "+91-9988776655"
+        },
+        {
+            "name": "Sneha Iyer",
+            "age": 31,
+            "email": "sneha.iyer@example.com",
+            "phone": "+91-9090909090"
+        },
+        {
+            "name": "Vikram Rao",
+            "age": 40,
+            "email": "vikram.rao@example.com",
+            "phone": "+91-9555566666"
+        }
+    ]
+}
